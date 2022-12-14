@@ -32,7 +32,7 @@ Mi nombre es Juan Cruz, soy de Argentina y soy un desarollador Full Stack.
 
 Hice un **Coding Bootcamp**  en **Plataforma 5**  en 2022.
 
-## Skills
+## Habilidades
 
 - NodeJS 
 - Express 
@@ -46,7 +46,7 @@ Hice un **Coding Bootcamp**  en **Plataforma 5**  en 2022.
 - React Native
 - KOA
 
-## Contacts
+## Contacto
 
 - mail: juancruzmontanellipro@gmail.com 
 - Phone: +5435840902094
