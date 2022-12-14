@@ -50,4 +50,4 @@ Hice un __ Coding Bootcamp __  en __ Plataforma 5 __  en 2022.
 
 - mail: juancruzmontanellipro@gmail.com 
 - Phone: +5435840902094
-- [Linkedin](https://www.linkedin.com/in/juan-cruz-montanelli-1544a325a/)g
+- [Linkedin](https://www.linkedin.com/in/juan-cruz-montanelli-1544a325a/)
