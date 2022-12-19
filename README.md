@@ -56,6 +56,8 @@ Hice un **Coding Bootcamp**  en **Plataforma 5**  en 2022.
 <img align="left" width="26px"  src="https://miro.medium.com/max/640/1*suXzT3k1lYrtR91XRDN7gA.webp" style="padding-right:10px;"/> 
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" style="padding-right:10px;"/> 
 
+#
+
 ## Contacto: 
 
 - mail: juancruzmontanellipro@gmail.com 
