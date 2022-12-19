@@ -26,7 +26,6 @@ I made a **Coding Bootcamp**  in **Plataforma 5**  in 2022.
 <details> 
     <summary><h3>My Journey</h3></summary>
     My journey started when I'm 17, I start doing smalls courses about programming and as I saw that JS have a big potencial, I decided to learn HTML, CSS and JS. 
-    
     But when I finish all that courses I wanted more, so I join a Coding Bootcamp to gain more knowledge. Now that i finish the Bootcamp I feel ready to do a lot of project and challenge myself. I want to keep learning new things that can help me improve my skills.
 </details> 
 
@@ -70,9 +69,9 @@ Hice un **Coding Bootcamp**  en **Plataforma 5**  en 2022.
 <details> 
     <summary><h3>Mi Viaje</h3></summary>
     Mi viaje empieza cuando tengo 17, empeze haciendo pequeños cursos sobre programacion y como vi que JS tiene un gran potecial, decidi aprender HTML, CSS y JS. 
-    
     Pero cuando termine todo los cursos queira mas, entonces me uni a un Bootcamp para adquirir nuevos conocimientos. Ahora que termine me siento listo para hacer un monton de proyecto que me desafien. Quiero seguir aprendiendo nuevas cosas que me ayuden a mejorar mis habilidades. 
 </details> 
+
 #
 
 ## Contacto: 
