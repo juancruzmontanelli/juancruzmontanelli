@@ -69,7 +69,6 @@ Hice un **Coding Bootcamp**  en **Plataforma 5**  en 2022.
 <details> 
     <summary><h3>Mi Viaje</h3></summary>
     Mi viaje empieza cuando tengo 17, empeze haciendo pequeños cursos sobre programacion y como vi que JS tiene un gran potecial, decidi aprender HTML, CSS y JS. 
-    /n
     Pero cuando termine todo los cursos queira mas, entonces me uni a un Bootcamp para adquirir nuevos conocimientos. Ahora que termine me siento listo para hacer un monton de proyecto que me desafien. Quiero seguir aprendiendo nuevas cosas que me ayuden a mejorar mis habilidades. 
 </details> 
 
