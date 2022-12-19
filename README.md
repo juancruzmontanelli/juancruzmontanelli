@@ -4,9 +4,11 @@ My name is Juan Cruz, I'm from Argentina and I'm a Full Stack Developer.
 
 I made a **Coding Bootcamp**  in **Plataforma 5**  in 2022.
 
-## Skills
+---
 
-- NodeJS 
+##  Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" style="padding-right:10px;" />][webdevplaylist]
 - Express 
 - React 
 - Sequelize 
@@ -22,7 +24,7 @@ I made a **Coding Bootcamp**  in **Plataforma 5**  in 2022.
 
 - mail: juancruzmontanellipro@gmail.com 
 - Phone: +54 9 358 490 2094
-- [Linkedin](https://www.linkedin.com/in/juan-cruz-montanelli/)
+- [Linkedin](https://www.linkedin.com/in/juan-cruz-montanelli   /)
 
 # ~~ Español ~~
 
