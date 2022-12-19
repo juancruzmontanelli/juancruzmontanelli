@@ -4,7 +4,7 @@ My name is Juan Cruz, I'm from Argentina and I'm a Full Stack Developer.
 
 I made a **Coding Bootcamp**  in **Plataforma 5**  in 2022.
 
----
+#
 
 ##  Languages and Tools:
 
@@ -28,6 +28,12 @@ I made a **Coding Bootcamp**  in **Plataforma 5**  in 2022.
 - mail: juancruzmontanellipro@gmail.com 
 - Phone: +54 9 358 490 2094
 - [Linkedin](https://www.linkedin.com/in/juan-cruz-montanelli   /)
+
+#
+
+<details> 
+    <summary><h3>My Journey</h3></summary>
+    I 
 
 ---
 
