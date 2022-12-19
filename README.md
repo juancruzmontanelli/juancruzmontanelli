@@ -9,16 +9,17 @@ I made a **Coding Bootcamp**  in **Plataforma 5**  in 2022.
 ##  Languages and Tools:
 
 <img align="left" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"/> 
-- Express 
-- React 
-- Sequelize 
-- HTML 
-- CSS
-- PostgreSQL
-- SASS 
-- Redux 
-- React Native
-- KOA
+<img align="left" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;"/> 
+<img align="left" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;"/> 
+<img align="left" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" style="padding-right:10px;"/> 
+<img align="left" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/> 
+<img align="left" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/> 
+<img align="left" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/> 
+<img align="left" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;"/> 
+<img align="left" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;"/> 
+<img align="left" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:10px;"/> 
+<img align="left" width="26px"  src="https://miro.medium.com/max/640/1*suXzT3k1lYrtR91XRDN7gA.webp" style="padding-right:10px;"/> 
+<img align="left" width="26px"  src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" style="padding-right:10px;"/> 
 
 ## Contacts
 
