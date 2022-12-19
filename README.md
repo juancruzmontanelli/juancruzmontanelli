@@ -8,7 +8,7 @@ I made a **Coding Bootcamp**  in **Plataforma 5**  in 2022.
 
 ##  Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" style="padding-right:10px;" />][webdevplaylist]
+<img align="left" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"/> 
 - Express 
 - React 
 - Sequelize 
