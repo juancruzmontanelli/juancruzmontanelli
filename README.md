@@ -34,6 +34,7 @@ I made a **Coding Bootcamp**  in **Plataforma 5**  in 2022.
 <details> 
     <summary><h3>My Journey</h3></summary>
     I 
+</details> 
 
 ---
 
